@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cai!</h1>
 
-![cat typing](https://github.com/user-attachments/assets/bd21886b-9cd9-4045-ae78-51461e16e1a8)
-
-
 <h3 align="center">🎓 BSIT Major in Database Systems | 💻 Web Developer in Progress | 📊 Exploring Web & Database Systems</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caimerah&show_icons=true&locale=en&layout=compact" alt="caimerah" /></p>
