@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cai!</h1>
 
-[![Image](https://github.com/user-attachments/assets/7b5f968e-ef5a-4910-9b66-a07777f00d0a)](https://github.com/caimerah/caimerah/blob/5d9ff8949d9a01a9f987320dc2ed95a1cdd669a2/justfiles/cat%20typing.gif)
+![Cat Typing](https://raw.githubusercontent.com/caimerah/caimerah/908fd49b6f6ca70a8fc22fde96217449e4b85112/justfiles/cat%20typing.gif)
 
 <h3 align="center">🎓 BSIT Major in Database Systems | 💻 Web Developer in Progress | 📊 Exploring Web & Database Systems</h3>
 
