@@ -6,7 +6,7 @@
 <h3 align="center">🎓 BSIT Major in Database Systems | 💻 Web Developer in Progress | 📊 Exploring Web & Database Systems</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caimerah&show_icons=true&locale=en&layout=compact" alt="caimerah" /></p>
----
+
 
 ## 🎓 Academic Projects
 Here are some of the projects I developed during my BSIT studies, focusing on web development, databases, and software design:
